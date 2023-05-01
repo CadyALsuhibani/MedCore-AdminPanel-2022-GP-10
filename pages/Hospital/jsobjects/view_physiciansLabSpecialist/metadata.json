@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "view_physiciansLabSpecialist",
+    "pageId": "Hospital",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Hospital_view_physiciansLabSpecialist",
+  "deleted": false,
+  "gitSyncId": "6356520d4b1a8d4291238688_63961e254b95806da2da7795"
+}
